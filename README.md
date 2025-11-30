@@ -7,16 +7,16 @@ This repository contains a Power BI project that analyzes cricket batting perfor
 This repository contains a Power BI dashboard that analyzes **cricket batting performance** across players. It is intended as a portfolio project demonstrating data cleaning, modeling, DAX, and interactive visualization skills applied to cricket statistics.
 
 **Files included**
-- `ESP.pbix` — Power BI report (interactive)
+- `ESP.pbix` — Power BI report 
 - `Headers.xlsx` — Column header reference (list of fields)
 - `Column definitions.xlsx` — Data dictionary describing each column
-- `ESP_Dashboard.pdf` — (recommended) export of the report for quick viewing
-- `screenshots/` — (recommended) add 2–4 screenshot images for preview
+- `ESP_Dashboard.pdf` —  the report for quick viewing
+- `screenshots/` — screenshot images for preview
 
 ---
 
 ## 🔎 Dataset & Key Fields
-The dashboard uses batting-level statistics. Main columns (from `Headers.xlsx`):
+The dashboard uses batting-level statistics. Main columns :
 
 - **Player** — Player name  
 - **Span** — Career span (years)  
@@ -40,10 +40,9 @@ Detailed descriptions for each field are available in **`Column definitions.xlsx
 
 ## 📈 Dashboard Features
 - Player-level cards and leaderboards (top run-scorers, highest SR, most 100s/50s)  
-- Trend charts for runs and strike rate across span/time (if date components exist)  
-- Distribution visuals: runs distribution, ducks, boundaries per player  
-- Interactive slicers: filter by player, span/year, and other categorical fields  
-- Drill-down and tooltip details for deeper inspection
+- Trend charts for runs and strike rate across span/time. 
+- Distribution visuals: runs distribution, ducks, boundaries per player. 
+- Interactive slicers: filter by player, span/year, and other categorical fields.
 
 ---
 
@@ -67,29 +66,8 @@ Detailed descriptions for each field are available in **`Column definitions.xlsx
 
 ---
 
-## 🧾 Notes on Usage & Data
-- The dataset is a batting-level summary. If you want to reproduce or extend, check `Column definitions.xlsx` for field meanings and transformation notes.  
-- If actual match-level timestamps are present in the PBIX, the dashboard includes time-based trend visuals; otherwise trends are based on career span and summary stats.  
-- **Privacy**: Ensure data published publicly contains no private/confidential information.
-
----
-
-## ✅ Suggested Files to Upload (recommended)
-- `ESP.pbix` (report)  
-- `ESP_Dashboard.pdf` (export of report pages)  
-- `Headers.xlsx`  
-- `Column definitions.xlsx`  
-- `screenshots/page1.png`, `page2.png` (preview images)
-
----
-
-## 📌 Resume line (single-line to paste into CV)
-**Power BI Project — Cricket Batting Performance Dashboard**  
-🔗 https://github.com/yourusername/cricket-batting-performance-powerbi
-
----
 
 ## 📬 Contact
 **Yash Charde**  
-Email: *your.email@example.com*  
-GitHub: https://github.com/yourusername
+Email: *yashraj.charde@gmail.com*  
+GitHub: https://github.com/yashcharde11
