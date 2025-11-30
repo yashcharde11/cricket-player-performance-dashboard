@@ -62,7 +62,7 @@ Detailed descriptions for each field are available in **`Column definitions.xlsx
 3. Open `ESP.pbix` in Power BI Desktop and use slicers to interact.
 
 ### Option B — Quick preview (no install)
-- Open `ESP_Dashboard.pdf` (exported report) or view images inside `screenshots/`.
+- Open `ESP_Dashboard.pdf` or view images inside `screenshots/`.
 
 ---
 
